@@ -1795,7 +1795,7 @@ input, select, textarea {
 			border-left: 0;
 			border-right: 0;
 			color: #fff;
-			color: rgba(255, 255, 255, 0.75);
+			color: #00FFFF;
 			font-size: 2.35em;
 			font-weight: 700;
 			line-height: 1.3em;
@@ -1804,7 +1804,7 @@ input, select, textarea {
 
 			#banner h2 strong {
 				font-weight: 800;
-				color: inherit;
+				color: #00FFFF;
 			}
 
 			#banner h2:before {
